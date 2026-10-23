@@ -1,3 +1,4 @@
+certifi>=2026.10.19
 # please make sure you have already a pytorch install that is cuda enabled!
 av==11.0.0
 einops
